@@ -1,4 +1,4 @@
-## Simple API REST Program
+## Simple API RESTful Program
 
 A simple PHP API for managing a To-Do list, created while learning PHP backend development. Supports CRUD operations for tasks.
 
